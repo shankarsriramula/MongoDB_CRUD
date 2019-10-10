@@ -5,4 +5,4 @@ CRUD operation
 ````` git clone`````
 
 # About the project
-`````````create,updaet,Read and  Delete``````````````````
+`````````create,updaet,read and delete``````````````````
