@@ -8,4 +8,4 @@ CRUD operation
 `````````create,updaet,read and delete``````````````````
 
 # Latest updates
-````````````MySQL```````````````````
+````````````MySQL````````````
