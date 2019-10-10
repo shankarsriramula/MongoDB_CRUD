@@ -6,3 +6,6 @@ CRUD operation
 
 # About the project
 `````````create,updaet,read and delete``````````````````
+
+# Latest updates
+````````````MySQL```````````````````
